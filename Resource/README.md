@@ -1,4 +1,4 @@
-# C++ libraries that is support numpy like operations.
+# C++ libraries that support Numpy like operations.
 
 * The [GNU Scientific Library](http://www.gnu.org/software/gsl/) is a GPL software written in C. Thus, it has a C-like allocation and way of programming (pointers, etc.). With the [GSLwrap](http://gslwrap.sourceforge.net/), you can have a C++ way of programming, while still using the GSL. GSL has a [BLAS](http://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) implementation, but you can use [ATLAS](http://math-atlas.sourceforge.net/) instead of the default CBLAS, if you want even more performances.
 
