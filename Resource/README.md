@@ -6,6 +6,6 @@
 
 * [eigen](http://eigen.tuxfamily.org/) is a linear algebra library written in C++, distributed under the LGPL3 (or GPL2). It's a C++ way of programming, but more integrated than the two others (more algorithms and data structures are available). Eigen [claim to be faster](http://eigen.tuxfamily.org/index.php?title=FAQ#How_does_Eigen_compare_to_BLAS.2FLAPACK.3F) than the BLAS implementations above, while not following the de-facto standard BLAS API. Eigen does not seem to put a lot of effort on parallel implementation.
 
-* [Armadillo](http://arma.sourceforge.net/) is LGPL3 library for C++. It has binding for [LAPACK](http://www.netlib.org/lapack/) (the library used by numpy). It uses recursive templates and template meta-programming, which is a good point (I don't know if other libraries are doing it also?).
+* [Armadillo](http://arma.sourceforge.net/) is LGPL3 library for C++. It has binding for [LAPACK](http://www.netlib.org/lapack/) (the library used by numpy). It uses recursive templates and template meta-programming, which is a good point.
 
 * [xtensor](https://github.com/QuantStack/xtensor) is a C++ library that is BSD licensed. It offers A C++ API very similar to that of NumPy. See https://xtensor.readthedocs.io/en/latest/numpy.html for a cheat sheet.
