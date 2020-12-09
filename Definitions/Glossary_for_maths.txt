@@ -1,0 +1,255 @@
+1. Null space
+
+2. vector
+
+3. Sparse solution
+
+4. Norms
+
+5. L1 norms
+
+6. L2 norms
+
+7. Matrix
+
+8. cross product (with all conditions, 0 etc)
+
+9. Dot product
+
+10. Regularization
+
+11. Normalization
+
+12. Canonical form
+
+13. Projective space
+
+14. Vector space
+
+15. Real number space
+
+16. Transform
+
+17. vector in matrix form
+
+18. basis vectors
+
+19. Matrix multiplication with vector
+
+20. Homogeneous equation
+
+21. Linearly dependent
+
+22. Linearly independent
+
+23. Rank of a matrix
+
+24. over determined
+
+25. Under determined
+
+26. One dimensional null space
+
+27. Trivial solution
+
+28. Homography
+
+29. Correspondences
+
+30. Linear combination
+
+31. argmax
+
+32. argmin
+
+33. linear system
+
+34. minimization problem
+
+35. eigen vector
+
+36. eigen value
+
+37. SVD
+
+38. unit singular vector
+
+39. singular matrix
+
+40. singular vector
+
+41. inhomogeneous linear system
+
+42. orthogonal matrices
+
+43. column
+
+44. row
+
+45. determinent
+
+46. Singular values of matrices
+
+47. unit vector
+
+48. Condition number
+Ratio of larget singular value to the smallest singular value.
+
+49. pseudoinverse
+
+50. Inverse of a matrix
+
+51. Range of matrix
+Column space(all the columns) of a matrix is called as range of matrix or image of matrix.
+
+52. Span of matrix
+Set of all possible combination
+
+53. Kernel space/null space of matrix
+
+54. Forbenius form
+
+55. Rotation matrix
+
+56. Sparse matrix
+-A matrix in which most of the element is zero.
+
+57. Stochastic matrix/ Probability matrix/ Transition matrix/ Substitution matrix/ Markov matrix
+-It is a matrix used to describe the transition of a markov chain. Each of the entries is  probability value.
+
+58. Dense submatrices
+
+59. Hessian matrix
+
+60. Scalar value function
+-It is a function which takes multiple variable values and output single value. Ex. f(x,y,z) = 2x+yz. It maps from R^n to real number line.
+
+61. Monotonic function
+
+62. Cummulative distribution function(CDF)
+
+63. Histogram
+
+64. Emperical
+
+65. Distribution function
+
+66. Boxplot
+-This has median(tells value below which 50% data is present)
+-The lower 25% quartile and upper 75% quartile.(Quarter means 25%)
+-Whiskers
+
+67. Median
+-
+
+68. Normal distribution
+
+69. Uniform distribution
+
+70. Random variable
+
+71. Probability distribution
+
+73. Real valued
+
+74. Expected value
+
+75. Variance
+
+76. Stanadrd deviation
+
+77. Binomial distribution
+
+78. Normal distribution
+
+79. Central limit theorem
+
+80. Estimator
+
+81. Estimation bias
+
+82. N% confidence interval
+
+83. Mean value
+
+84. modal value
+
+85. Independent variable
+
+86. Dependent variable
+
+87. Mean
+
+88. Median
+
+89. Mode
+
+90. Emperical mean
+
+91. Biased estimator
+
+92. Unbiased estimator
+
+93. left skewed distribution
+
+94. right skewed distribution
+
+95. symmetric distribution
+
+96. Chebyshev's inequality
+
+97. Vector space
+The real space where we can describe a vector of n dimension.  For example: x = [1,2] it is a vector that is formed in 2D space by moving along first dimension 1 unit and 2 unit in second dimension.
+
+98. Triangle inequality
+
+99. Homogeneous
+
+A homogeneous function is one with multiplicative scaling behaviour: if all its arguments are multiplied by a factor, then its value is multiplied by some power of this factor.
+function that should be able to write in the form f(zx,zy) = z^n f(x,y). It means if we take f(x,y) function and replace both x and y by zx and zy then if we are able to write the equation in
+the form defined above we call it homogeneous function. Ex. F(x,y) = x+y, Non homogeneous function = f(x,y) = x+y^2
+
+100. lp norms
+
+101. c-norms
+
+102. Permutation matrices or signed permutation matrices or monomial matrices
+
+A permutation matrix is a square matrix obtained from the same size identity matrix by a permutation of rows. Such a matrix is always row equivalent to an identity.
+Every row and every column of a permutation matrix contain exactly one nonzero entry, which is 1.
+There are two 2 × 2 permutation matrices:
+[ 1 0
+  0 1 ] ,
+[ 0 1
+  1 0 ] .
+
+It means if we take 2x2 matrix then we can form 2 permutation matrix.
+For 3x3 matrix we can form 6 permutation matrices.
+There are six 3 × 3 permutation matrices. There are n! permutation matrices of size n.
+
+103. Absolute value function
+
+An absolute value function is a function that contains an algebraic expression within absolute value symbols.
+The absolute value parent function, written as f(x)=|x|, is defined as
+
+f(x)={x  if x>0
+      0  if x=0
+     -x  if x<0}
+
+https://www.varsitytutors.com/hotmath/hotmath_help/topics/absolute-value-functions#:~:text=An%20absolute%20value%20function%20is,0%20on%20the%20number%20line.&text=To%20graph%20an%20absolute%20value,and%20find%20some%20ordered%20pairs.
+
+104. Sequence
+
+105. Divergent Sequence
+
+106. Convergent Sequence
+
+107. Manhattan distance or taxi cab distance
+
+108. Convergence
+
+109. Subspace
+
+In linear algebra, a linear subspace, also known as a vector subspace is a vector space that is a subset of some larger vector space.
+
+110.
