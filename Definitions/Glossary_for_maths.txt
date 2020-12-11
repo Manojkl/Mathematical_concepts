@@ -252,4 +252,6 @@ https://www.varsitytutors.com/hotmath/hotmath_help/topics/absolute-value-functio
 
 In linear algebra, a linear subspace, also known as a vector subspace is a vector space that is a subset of some larger vector space.
 
-110.
+110. Radians
+
+1 radians is equivalent to 57.29 degress. If we take radius of the circle and put along the circumference of the circle then the angle made by 1 radian is 57.29 degrees. Pi radians is equivalen to 180 degress because Pi value is 3.14 and 3.14*57.29 degrees = 180 degress. It means if we inscribe 3.14 radians then it will make 180 degrees.
